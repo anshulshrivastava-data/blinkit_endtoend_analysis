@@ -1,0 +1,34 @@
+2026-07-23 15:43:16,579 - INFO - Ingesting blinkit_customers.csv into MySQL as table: blinkit_customers
+2026-07-23 15:43:17,540 - INFO - Ingesting blinkit_customer_feedback.csv into MySQL as table: blinkit_customer_feedback
+2026-07-23 15:43:17,993 - INFO - Ingesting blinkit_delivery_performance.csv into MySQL as table: blinkit_delivery_performance
+2026-07-23 15:43:18,404 - INFO - Ingesting blinkit_inventory.csv into MySQL as table: blinkit_inventory
+2026-07-23 15:43:20,925 - INFO - Ingesting blinkit_inventoryNew.csv into MySQL as table: blinkit_inventoryNew
+2026-07-23 15:43:21,457 - INFO - Ingesting blinkit_marketing_performance.csv into MySQL as table: blinkit_marketing_performance
+2026-07-23 15:43:21,807 - INFO - Ingesting blinkit_orders.csv into MySQL as table: blinkit_orders
+2026-07-23 15:43:22,169 - INFO - Ingesting blinkit_order_items.csv into MySQL as table: blinkit_order_items
+2026-07-23 15:43:22,350 - INFO - Ingesting blinkit_products.csv into MySQL as table: blinkit_products
+2026-07-23 15:43:22,869 - INFO - Ingesting Category_Icons.xlsx into MySQL as table: Category_Icons
+2026-07-23 15:43:22,946 - INFO - Ingesting Rating_Icon.xlsx into MySQL as table: Rating_Icon
+2026-07-23 15:43:23,010 - INFO - ----------------Ingestion Complete----------------
+2026-07-23 15:43:23,010 - INFO - Total Time Taken: 0.1075 minutes
+
+2026-07-27 21:22:58,465 - INFO - Ingesting blinkit_customers.csv into MySQL database as table: blinkit_customers
+2026-07-27 21:22:59,543 - INFO - Ingesting blinkit_customer_feedback.csv into MySQL database as table: blinkit_customer_feedback
+2026-07-27 21:22:59,872 - INFO - Ingesting blinkit_delivery_performance.csv into MySQL database as table: blinkit_delivery_performance
+2026-07-27 21:23:00,300 - INFO - Ingesting blinkit_inventory.csv into MySQL database as table: blinkit_inventory
+2026-07-27 21:23:02,655 - INFO - Ingesting blinkit_marketing_performance.csv into MySQL database as table: blinkit_marketing_performance
+2026-07-27 21:23:03,134 - INFO - Ingesting blinkit_orders.csv into MySQL database as table: blinkit_orders
+2026-07-27 21:23:03,495 - INFO - Ingesting blinkit_order_items.csv into MySQL database as table: blinkit_order_items
+2026-07-27 21:23:03,710 - INFO - Ingesting blinkit_products.csv into MySQL database as table: blinkit_products
+2026-07-27 21:23:04,482 - INFO - Ingesting Category_Icons.xlsx into MySQL database as table: Category_Icons
+2026-07-27 21:24:16,525 - INFO - Ingesting blinkit_customers.csv into MySQL database as table: blinkit_customers
+2026-07-27 21:24:17,163 - INFO - Ingesting blinkit_customer_feedback.csv into MySQL database as table: blinkit_customer_feedback
+2026-07-27 21:24:17,602 - INFO - Ingesting blinkit_delivery_performance.csv into MySQL database as table: blinkit_delivery_performance
+2026-07-27 21:24:17,969 - INFO - Ingesting blinkit_inventory.csv into MySQL database as table: blinkit_inventory
+2026-07-27 21:24:20,254 - INFO - Ingesting blinkit_marketing_performance.csv into MySQL database as table: blinkit_marketing_performance
+2026-07-27 21:24:20,574 - INFO - Ingesting blinkit_orders.csv into MySQL database as table: blinkit_orders
+2026-07-27 21:24:20,847 - INFO - Ingesting blinkit_order_items.csv into MySQL database as table: blinkit_order_items
+2026-07-27 21:24:21,084 - INFO - Ingesting blinkit_products.csv into MySQL database as table: blinkit_products
+2026-07-27 21:24:21,166 - INFO - ----------------Ingestion Complete----------------
+2026-07-27 21:24:21,166 - INFO - Total Time Taken: 0.0777 minutes
+
