@@ -36,14 +36,17 @@ Quick-commerce platforms operate under strict delivery windows and dynamic custo
 ```text
 ├── Data/
 │   ├── Raw/                       # Raw CSV datasets (orders, delivery, products, etc.)
-│   └── Cleaned/                   # Transformed & cleaned dataset backups
+│   └── Cleaned/                    # Transformed & cleaned dataset backups
 ├── Notebooks/
 │   ├── ingestion_db.ipynb         # Automated SQL database ingestion pipeline
 │   ├── data cleaning.ipynb        # Null handling, formatting, and deduplication
 │   ├── data_transformation.ipynb  # Feature engineering & aggregations
 │   ├── exploratory data analysis(EDA).ipynb # Visual distribution & correlation analysis
 │   └── business_questions_analysis.ipynb   # Deep-dive business questions & executive charts
+├── sql/
+│   └── schema.sql                 # MySQL relational schema & DDL definitions
 ├── logs/                          # Database ingestion log files
+├── .env.example                   # Environment variables template for database configuration
 ├── .env                           # Database credentials configuration (ignored in git)
 ├── .gitignore                     # Git exclusion settings
 └── README.md                      # Project documentation
